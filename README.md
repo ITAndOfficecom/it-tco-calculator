@@ -32,3 +32,6 @@ This project is maintained by [itandoffice.com](https://itandoffice.com), an e-c
 ## Suggested GitHub topics
 
 `it-tools` `tco-calculator` `network-calculator` `sysadmin` `procurement` `office-it` `poe`
+
+## Live Demo
+👉 [Ouvrir le calculateur](https://itandofficecom.github.io/it-tco-calculator/it-tco-calculator.html)
